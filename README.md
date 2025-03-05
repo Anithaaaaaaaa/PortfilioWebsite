@@ -28,7 +28,7 @@ This project showcases my skills, projects, and experience as a web developer.
 ## 📥 Installation & Usage
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone: https://github.com/Anithaaaaaaaa/PortfilioWebsite/tree/main
 
 2)Open index.html in a browser
 3)Customize Content & Deploy
