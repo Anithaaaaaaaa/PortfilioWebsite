@@ -3,7 +3,6 @@
 Welcome to my **Personal Portfolio Website**! 🚀  
 This project showcases my skills, projects, and experience as a web developer.
 
-![Portfolio Preview]
 
 ## 📌 Tech Stack
 - **HTML5**  
@@ -33,7 +32,7 @@ This project showcases my skills, projects, and experience as a web developer.
 
 🔗 Live Preview
 
-🌍 GitHub Repository: Catch The Insect Game
+🌍 GitHub Repository: https://github.com/Anithaaaaaaaa/PortfilioWebsite/tree/main
 
 🎮 Live Game Link: https://anithachandran.neocities.org/Portfiloo_Website/
 
