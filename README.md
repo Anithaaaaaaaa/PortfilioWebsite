@@ -21,17 +21,27 @@ This project showcases my skills, projects, and experience as a web developer.
 ## 📂 Project Structure
 📁 Portfolio-Website/ │── 📄 index.html # Main HTML file │── 📄 style.css # Styling and animations │── 📄 script.js # JavaScript for form handling │── 📂 assets/ # Images, icons, etc.
 
-
-## 🚀 Live Demo
-🔗 [View Website](your-live-demo-link-here)
-
 ## 📥 Installation & Usage
 1. **Clone the Repository**  
    ```sh
    git clone: https://github.com/Anithaaaaaaaa/PortfilioWebsite/tree/main
 
 2)Open index.html in a browser
+
 3)Customize Content & Deploy
 
-🔗 Connect With Me
-Email: anithachandran531@gmail.com
+
+🔗 Live Preview
+
+🌍 GitHub Repository: Catch The Insect Game
+
+🎮 Live Game Link: https://anithachandran.neocities.org/Portfiloo_Website/
+
+
+📩 Contact
+
+For any questions or suggestions, feel free to reach out:
+
+📧 Email: anithachandran531@gmail.com
+
+
